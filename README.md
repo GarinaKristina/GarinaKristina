@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GarinaKristina
 - 👀 I’m interested in JS.
-- 🌱 I’m currently learning all the basics and specifics of testing
+- 🌱 I’m currently Software Automation Engineer
 - 💞️ I’m looking to collaborate with cool guys on interesting projects
 - 📫 How to reach me ? Send me  message tinka_e@mail.ru
 

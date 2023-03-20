@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GarinaKristina
-- 👀 I’m interested in JS.
+- 👀 I’m interested in automation testing using languages such as JS and C#.
 - 🌱 I’m currently Software Test Automation Engineer
 - 💞️ I’m looking to collaborate with cool guys on interesting projects
 - 📫 How to reach me ? Send me  message tinka_e@mail.ru

@@ -48,5 +48,11 @@ tickets to each other.<br>
 </body>
 
 <body>
-    <p dir="auto"><a href="https://www.codewars.com/users/GarinaKristina" rel="nofollow"><img src="https://www.codewars.com/users/GarinaKristina/badges/small" style="max-width: 100%;"></a></p>
+    <p dir="auto"><a href="https://www.codewars.com/users/GarinaKristina" rel="nofollow"><img src="https://www.codewars.com/users/GarinaKristina/badges/large" style="max-width: 100%;"></a></p>
 </body>
+<div>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title="JavaScript" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="CSharp" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"  title="Puthon" width="50" height="50" />
+</div>

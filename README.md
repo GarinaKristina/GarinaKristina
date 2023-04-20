@@ -1,4 +1,4 @@
--<body>
+<body>
   <h1 align="center">
     Hi there, I'm
     <a href="https://www.linkedin.com/in/kristina-garina-automation-software-engineer/" target="_blank">Kristina</a>
@@ -7,7 +7,7 @@
   <h3 align="center">Software Test Automation Engineer</h3>
          <p>
             <div>
-    <h3 align="left"><u>  About me ☘️</u></h3>
+    <h3 align="left"><u>About me ☘️</u></h3>
   </p>
     <h align="left"> 
       I am originally from Belarus, now I living in Lithuania. <br>
@@ -28,24 +28,21 @@
   </p>
 </div>
 <div>
-    <h3 align="left"><u>My journey to become a Software Test Automation Engineer 💻</u>
-
-       </h3>
-       <p>
-        <h>
+    <h3 align="left"><u>My journey to become a Software Test Automation Engineer 💻</u></h3>
+    <p>
+    <h>
 And so, one fine day, I decided to change my life and went to QA Automation in javascript courses at Epam Systems. <br>
 I went through all the modules, passed the English test, chose the programming language, did all the homework...<br>
 <p>
 After the course, I already got an internship at Epam Systems, where a team of three people wrote a framework for<br>
-an online store using <u>WebdriverIO, Cucumber, Jest for API</u>. We created test cases, estimate them, distributed Jira <br>
+an online store using <u>WebdriverIO, Cucumber, Jest for API</u>.
+ We created test cases, estimate them, distributed Jira <br>
 tickets to each other.<br>
 </p>
-        </h>
-       </p>
+    </h>
+    </p>
   <p>
   After a successful internship, I went through several stages of the interview and <b>I FINALLY GOT MY FIRST OFFER</b> 🎉🎉🎉
   </p>
-
-    </div>
- 
+    </div> 
 </body>

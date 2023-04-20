@@ -47,7 +47,6 @@ tickets to each other.<br>
     </div> 
 </body>
 
-
 <body>
-    [![codewars](https://www.codewars.com/users/GarinaKristina/badges/small)](https://www.codewars.com/users/GarinaKristina) 
+    <p dir="auto"><a href="https://www.codewars.com/users/GarinaKristina" rel="nofollow"><img src="https://www.codewars.com/users/GarinaKristina/badges/small" style="max-width: 100%;"></a></p>
 </body>

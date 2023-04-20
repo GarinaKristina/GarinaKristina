@@ -61,9 +61,10 @@ tickets to each other.<br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" title="Jenkins" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" title="Cucumber" width="50" height="50"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" title="Git" width="50" height="50" />
-                                       
+                                    
 </div>
-
+ 
 </body>
+  
    
-
+ ![Screenshot reporter result](https://github.com/GarinaKristina/GarinaKristina/blob/main/top.JPG)

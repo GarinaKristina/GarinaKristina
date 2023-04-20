@@ -7,9 +7,7 @@
   <h3 align="center">Software Test Automation Engineer</h3>
          <p>
             <div>
-    <h3 align="left"><u>  About me ☘️</u>
-    
-       </h3>
+    <h3 align="left"><u>  About me ☘️</u></h3>
   </p>
     <h align="left"> 
       I am originally from Belarus, now I living in Lithuania. <br>

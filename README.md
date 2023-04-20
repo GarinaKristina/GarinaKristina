@@ -27,9 +27,9 @@
     </h>
   </p>
 </div>
-<div> <h3 align="left"><u>I am a gamer</u></h3> </div>
+<div> <h3 align="left"><u>I am a gamer 🕹️</u></h3> </div>
 
-![Diablo](https://github.com/GarinaKristina/GarinaKristina/blob/main/diablo.JPG)
+![Diablo](https://github.com/GarinaKristina/GarinaKristina/blob/main/diabloKris.JPG)
 
 <div>
     <h3 align="left"><u>My journey to become a Software Test Automation Engineer 💻</u></h3>

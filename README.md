@@ -15,7 +15,8 @@
      </u><br>
     </p>
       <p> 
-        I can build test automation for your mobile or web project from scratch using Javascript or Typescript
+        I can build a test automation framework for your mobile or web project from scratch using Javascript or Typescript programming languages.
+        Would you like CI on Jenkins or GitHub? Okay. Just choose which one you prefer.
     <br>
     </p> 
      <p> 

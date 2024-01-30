@@ -10,7 +10,7 @@
     <h3 align="left"> <u>  About me ☘️</u></h3>
   </p>
     <h align="left"> 
-      I am a Software Test Automation Engineer with 2+ years of experience. Originally from Belarus, now I living in Lithuania. <br>
+      I am from Belarus, now I living in Lithuania. <br>
       <p>
      </u><br>
     </p>

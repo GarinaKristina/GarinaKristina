@@ -39,7 +39,7 @@
     <li>Independent and proactive, capable of self-management and taking initiative in dynamic environments.</li>
     <li>Team player with a track record of collaborating effectively with developers, QA teams, and stakeholders.</li>
     <li>Adaptable learner, swiftly acclimating to new frameworks and technologies, with the ability to construct robust testing frameworks from scratch.</li>
-    <li>As a level 85 Necromancer in Diablo, overcoming the challenges of Acts I-V and defeating formidable foes like Andariel, Duriel, Mephisto, Diablo, and Baal</li>
+    <li><strong>As a level 85 Necromancer in Diablo, overcoming the challenges of Acts I-V and defeating formidable foes like Andariel, Duriel, Mephisto, Diablo, and Baal</strong></li>
     <img src="https://github.com/GarinaKristina/GarinaKristina/blob/main/diabloKris.JPG" alt="Diablo Victory"/>
   </ul>
     <div>

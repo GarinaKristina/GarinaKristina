@@ -79,6 +79,4 @@
 </div>
  
 </body>
-  
-   
- ![Screenshot reporter result](https://github.com/GarinaKristina/GarinaKristina/blob/main/top.JPG)
+

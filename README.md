@@ -22,7 +22,7 @@
     <p align="left">
       Professional Experience:<br>
       <strong>EPAM Systems</strong>: Test automation, working on small to medium scale projects under the SCRUM methodology.<br>
-      <strong>Vention</strong>: Building frameworks from scratch, mobile application testing for iOS and Android.
+      <strong>Vention</strong>: Building framework from scratch, for mobile application automation testing for iOS and Android
     </p>
    <h3 align="left">Core Skills</h3>
   <ul>

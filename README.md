@@ -8,10 +8,13 @@
   <div>
     <h3 align="left">About me ☘️</h3>
    <p align="left">
-      Originating from Belarus and currently based in Lithuania, I am a dedicated Software Test Automation Engineer. My professional expertise encompasses UI, API, functional, and mobile testing domains. As a proactive and highly motivated individual, I am committed to delivering quality results and continuously improving the software development lifecycle.
+      I’m a Software Test Automation Engineer originally from Belarus, now living and working in Lithuania. With over 3 years of experience in the field, my expertise spans UI, API, functional, and mobile testing. I’m passionate about ensuring software quality at every stage of development. I’m all about continuous improvement and delivering results that make a real impact.
     </p>
     <p align="left">
-      I am adept at problem-solving and have robust communication skills <img src="https://github.com/GarinaKristina/GarinaKristina/blob/main/potato.png" alt="Potato Emoji" width="30" height="30" />, which I have effectively applied within collaborative Scrum team settings. My approach is always geared towards finding practical and efficient solutions to technical challenges.
+    
+As a proactive problem-solver with strong communication skills <img src="https://github.com/GarinaKristina/GarinaKristina/blob/main/potato.png" alt="Potato Emoji" width="30" height="30" /> 🚀, I thrive in collaborative Scrum environments. I love finding smart, efficient solutions to technical challenges and helping teams build software that not only works but excels.
+
+When I’m not testing, you’ll find me exploring new ways to grow both personally and professionally—because there’s always room to learn and improve!
     </p>
     <p align="left">
       Languages:<br>

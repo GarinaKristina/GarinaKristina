@@ -12,7 +12,7 @@
     </p>
     <p align="left">
     
-As a proactive problem-solver with strong communication skills <img src="https://github.com/GarinaKristina/GarinaKristina/blob/main/potato.png" alt="Potato Emoji" width="30" height="30" /> 🚀, I thrive in collaborative Scrum environments. I love finding smart, efficient solutions to technical challenges and helping teams build software that not only works but excels.
+As a proactive problem-solver with strong communication skills <img src="https://github.com/GarinaKristina/GarinaKristina/blob/main/potato.png" alt="Potato Emoji" width="30" height="30" /> 🚀, I thrive in collaborative Scrum environments. I enjoy finding smart and effective solutions to technical challenges and helping teams build software that not only works, but exceeds expectations.
 
 When I’m not testing, you’ll find me exploring new ways to grow both personally and professionally—because there’s always room to learn and improve!
     </p>
